@@ -16,7 +16,7 @@
     "deep-equal": "^1.0.1",
     "get-canvas-context": "^1.0.2",
     "is-class": "0.0.5",
-    "is-dom": "^1.0.9",
+    "is-dom": "^1.1.0",
     "is-promise": "^2.1.0",
     "object-assign": "^4.1.1",
     "pad-left": "^2.1.0",
